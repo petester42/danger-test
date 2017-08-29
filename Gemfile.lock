@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/petester42/danger.git
-  revision: 00fa26977ec60796f171c6c972ac735aa0e85bb6
+  revision: b067f066bae2f18968262f0386ffd55e2cba5b0b
   branch: feature/vsts
   specs:
     danger (5.3.5)
