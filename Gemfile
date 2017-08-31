@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "danger", :git => "https://github.com/petester42/danger.git", :branch => "vsts"
+gem "danger", :git => "https://github.com/petester42/danger.git", :branch => "github-vsts"

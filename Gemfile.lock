@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/petester42/danger.git
-  revision: 3e4bdd7231ea31f3023db16325859d0904ed19bd
-  branch: vsts
+  revision: 9231050baba09ba4fd30723ea1bb8185152b607a
+  branch: github-vsts
   specs:
     danger (5.3.5)
       claide (~> 1.0)
