@@ -1,2 +1,2 @@
 warn "warn test"
-fail "fail test"
+fail "fail test 1"
