@@ -1,2 +1,5 @@
 warn vsts.pr_title
-fail "fail test 4"
+
+message "Changes #{vsts.markdown_link(git.modified_files)}"
+
+fail "tests"
