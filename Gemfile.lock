@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/danger/danger.git
-  revision: d3d635180c90232ceb397eec3d694865b2f6de35
+  revision: c87983b4d92b844d4db22d057ebf6d9792c1247d
   branch: vsts-plugin
   specs:
     danger (5.4.0)
