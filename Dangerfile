@@ -1,4 +1,4 @@
-message "Changes #{github.markdown_link(git.modified_files)}"
+message "Changes #{github.html_link(git.modified_files)}"
 
 warn vsts.pr_title
 
